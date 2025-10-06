@@ -1,0 +1,1 @@
+.incbin "flag.txt"
